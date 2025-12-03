@@ -1,6 +1,6 @@
 # arkaquiz  
 
-> Simple and flexible quiz-engine for Node.js / browser — generate quizzes, validate answers, and get results easily.  
+> Just a fun NodeJS CLI game for the terminal
 
 ## Why arkaquiz  
 
