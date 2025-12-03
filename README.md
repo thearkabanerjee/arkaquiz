@@ -4,7 +4,7 @@
 
 ## Why arkaquiz  
 
-When you want to build a quiz — for self-learning, classroom practice, test mocks, or just fun — you don’t want to reinvent the wheel. arkaquiz gives you a lightweight, configurable way to define quizzes (multiple-choice, multi-correct, etc.), feed user answers, and get structured results — plug it into your project and go.  
+Nothing serious, just if you want to have a fun Quiz of programming. and maybe you can also 
 
 ## Features  
 
@@ -12,7 +12,8 @@ When you want to build a quiz — for self-learning, classroom practice, test mo
 - Support for single-correct or multiple-correct answers  
 - Automatically validate user input and compute score / results  
 - Extensible: you can plug in custom logic (e.g. shuffle questions, custom scoring, retries)  
-- Works in Node.js and browser (if packaged/bundled appropriately)  
+- Works in the terminal (any terminal btw)
+- You get a great prize at the end
 
 ## Installation  
 
