@@ -5,9 +5,16 @@ haha
 ## to run you need to run this 
 ## npx arkaquiz
 
-
+## to install 
 ```bash
 npm install arkaquiz
+```
+
+
+## to run directly
+
+```bash
+npx arkaquiz
 ```
 
 btw incase you want to follow my journey along :
