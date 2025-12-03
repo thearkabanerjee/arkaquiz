@@ -4,5 +4,11 @@ haha
 
 ## to run you need to run this 
 ## npx arkaquiz
+
+
+```bash
+npm install arkaquiz
+
+
 btw incase you want to follow my journey along :
 X: https://www.twitter.com/thearkabanerjee
