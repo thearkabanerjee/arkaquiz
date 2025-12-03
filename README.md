@@ -1,6 +1,6 @@
 # arkaquiz  
 
-> Just a fun NodeJS CLI game for the terminal
+> Just a fun NodeJS CLI game for the terminal with a few programming questions
 
 ## Why arkaquiz  
 
