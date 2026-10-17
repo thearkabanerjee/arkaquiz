@@ -133,7 +133,7 @@ async function main() {
             s.start("Unlocking secret message");
             await setTimeout(5000);
             s.stop();
-            p.outro(`${color.cyanBright(`You did it ?! 10/10 ? Here's Your REWARD:  https://tinyurl.com/2pxn86s9`)}`);
+            p.outro(`${color.cyanBright(`You did it ?! 10/10 ?\nHere's Your REWARD: \n https://tinyurl.com/2pxn86s9`)}`);
         } else {
             const s = p.spinner();
             s.start();
